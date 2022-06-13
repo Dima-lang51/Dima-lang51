@@ -53,7 +53,7 @@ Email: dzyablov51@gmail.com
 <br />
 
 ### <strong>P.S.</strong>
-Открыты для новых и интересных задач!
+Open to new and interesting challenges!
 
 [python]: https://www.python.org/
 [ReactNative]: https://reactnative.dev/
